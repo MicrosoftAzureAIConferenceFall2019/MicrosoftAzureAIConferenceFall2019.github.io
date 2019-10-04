@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-In today’s fast-paced world with technology changing rapidly, it’s a challenge to stay on top of everything new while mastering the fundamentals. This exciting event, now in its eighth year, brings your favorite Microsoft leaders, engineers and industry experts together to educate, network, and share their expertise with you. 2018 was an amazing year for developers working in the Microsoft stack, but its challenging to understand the implications of events like the acquisition of GitHub by Microsoft. The focus of Azure and artificial intelligence also have significant implications for how you built and operate software in 2019. New versions of ASP.NET Core, Visual Studio and SQL Server are coming as well. Are you ready? Invest in your company’s success – and in your career – at an event where questions are answered, strategies are defined and relationships are built.
+Artiﬁcial Intelligence is more than the hot new buzz word – it’s the future of software. Microsoft is positioned to be the key player in AI providing services through the Azure platform. The Microsoft Azure + AI Conference brings together the best and brightest from Microsoft and the broader cloud and AI industry in the late fall of 2019 in Las Vegas, Nevada. Azure is becoming a key competitive advantage for all sizes of businesses, and your customers are keen to get onboard the cloud train. When combined with AI technologies, including vision systems, voice interaction, and machine learning and deep learning, the opportunities for growth are enormous.
 
-[DEVintersection-organization]: https://devintersection.github.io/
+As the ﬁeld of AI and cloud expands, now is the perfect time for you to announce your latest products and services. Why not make your announcements at our event where Scott Guthrie, Eric Boyd and others will be keynoting? The AI and cloud community will be looking at Las Vegas, Nevada in November 2019 – and you should be there, too.
+
+
+[AzureAI-organization]: https://github.com/MicrosoftAzureAIConferenceFall2019
