@@ -9,4 +9,4 @@ Artiﬁcial Intelligence is more than the hot new buzz word – it’s the futur
 As the ﬁeld of AI and cloud expands, now is the perfect time for you to announce your latest products and services. Why not make your announcements at our event where Scott Guthrie, Eric Boyd and others will be keynoting? The AI and cloud community will be looking at Las Vegas, Nevada in November 2019 – and you should be there, too.
 
 
-[AzureAI-organization]: https://github.com/MicrosoftAzureAIConferenceFall2019
+[AzureAI-organization]: https://www.azureaiconf.com/#!/
