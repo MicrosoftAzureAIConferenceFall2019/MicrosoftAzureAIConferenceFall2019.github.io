@@ -9,4 +9,6 @@ Brock has 20+ years of experience in enterprise software industry building softw
 
 Here are links to his presentation material:
 
-- 
+- - [Multi-factor Authentication using FIDO2 and Web Authentication with ASP.NET Identity](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/mfa_fido2.pdf)
+- [Securing APIs with ASP.NET Core 3, Visual Studio 2019, and IdentityServer4](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/apis_aspcore3_is4.pdf)
+- [DEMOS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/session_demos.zip)
