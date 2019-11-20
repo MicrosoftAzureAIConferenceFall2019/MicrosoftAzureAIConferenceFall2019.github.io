@@ -9,4 +9,4 @@ Zoiner Tejada (zoinertejada@solliance.net) is CEO and Architect at Solliance, pr
 
 Here are links to his presentation material:
 
-- Deep Learning for Developer Crash Course Part 1 and Part 2](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Deep%20learning%20for%20developers%20crash%20course.pptx)
+- [Deep Learning for Developer Crash Course Part 1 and Part 2](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Deep%20learning%20for%20developers%20crash%20course.pptx)
