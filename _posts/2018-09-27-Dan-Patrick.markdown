@@ -9,3 +9,4 @@ Dan is the Chief Infrastructure Architect for Solliance. He leads the DevOps and
 
 Here are links to his presentation material:
 
+- [Running AKS in Prod](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Running%20AKS%20in%20Prod.pptx)
