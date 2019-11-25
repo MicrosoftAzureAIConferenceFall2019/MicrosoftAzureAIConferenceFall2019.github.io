@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Ike Ellis"
+date:   2018-09-27 11:48:33 +0400
+expertise: General Manager, Data & AI Practice | Solliance
+---
+
+Ike Ellis is the General Manager for the Data & AI Practice at Solliance. He is an experienced cloud data architect. He has been a Microsoft Data Platform MVP since 2011. He co-authored the book "Developing Azure Solutions," now in its second edition. He is a popular speaker at SQLBits, PASS Summit, TechEd, Power BI Global Summit, and SQL in the City. He speaks at user groups, code camps, and SQLSaturdays. He has written courses on SQL Server for Developers, Power BI, SSRS, Azure Databricks, Azure CosmosDB, and Azure Analysis Services. He leads the Power BI and PowerApps User Group in San Diego. He founded the San Diego Tech Immersion Group, a technical book club and is the co-chair of the San Diego Software Architecture Group.
+
+Here are links to his presentation material:
+
+- [A Guide to Creating Data Pipelines in Azure](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Data%20Pipelines.pptx)
+- [Data Modeling Trends for 2020 and Beyond](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Data%20Modeling.pptx)
